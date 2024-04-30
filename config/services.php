@@ -30,5 +30,15 @@ return [
             'channel' => env('SLACK_BOT_USER_DEFAULT_CHANNEL'),
         ],
     ],
+    'firebase' => [
+        'apiKey' => "AIzaSyB-1h34vB9WSO8-xaTHOOoafu4kzzFaEU8",
+        'authDomain' => "testingjs-fe936.firebaseapp.com",
+        'databaseUrl' => 'https://testingjs-fe936-default-rtdb.firebaseio.com/',
+        'projectId' => "testingjs-fe936",
+        'storageBucket' => "testingjs-fe936.appspot.com",
+        'messagingSenderId' => "550376996939",
+        'appId' => "1:550376996939:web:b00309e0b083a4bef7cdce"
+
+    ]
 
 ];
