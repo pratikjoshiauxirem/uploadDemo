@@ -20,7 +20,7 @@
         <br><br>
         <input type="text" name="email" placeholder="Enter Email" id="email">
         <br><br>
-        <button type="button" id="submitUser">Submit</button>
+        <button type="button" id="submitUser">Submitt</button>
     </form>
     <script>
         const firebaseConfig = {
